@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/RunConfigs/Config/=3E120D63CD287A478E887B3275541994/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/RunConfigs/Config/=3E120D63CD287A478E887B3275541994/Name/@EntryValue">OnlineRetail_DSP</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=3E120D63CD287A478E887B3275541994/ProjectGuid/@EntryValue">358124B34708CE43BD3A71D69EB90801</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=3E120D63CD287A478E887B3275541994/Type/@EntryValue">project</s:String>
+	<s:Boolean x:Key="/Default/RunConfigs/Config/=BBD13A1A7FBFE94483BAA4330C300BA8/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/RunConfigs/Config/=BBD13A1A7FBFE94483BAA4330C300BA8/DefaultAction/@EntryValue">run</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=BBD13A1A7FBFE94483BAA4330C300BA8/Name/@EntryValue">OnlineRetail_DSP</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=BBD13A1A7FBFE94483BAA4330C300BA8/ProjectGuid/@EntryValue">358124B34708CE43BD3A71D69EB90801</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=BBD13A1A7FBFE94483BAA4330C300BA8/Type/@EntryValue">project</s:String>
+	<s:Boolean x:Key="/Default/RunConfigs/Config/=D0F710BF308B944BA2D4838AB09A1B50/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/RunConfigs/Config/=D0F710BF308B944BA2D4838AB09A1B50/Type/@EntryValue">project</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=D0F710BF308B944BA2D4838AB09A1B50/Name/@EntryValue">OnlineRetail_DSP</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=D0F710BF308B944BA2D4838AB09A1B50/ProjectGuid/@EntryValue">358124B34708CE43BD3A71D69EB90801</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=D0F710BF308B944BA2D4838AB09A1B50/DefaultAction/@EntryValue">run</s:String>
+	<s:String x:Key="/Default/RunConfigs/Active/@EntryValue">3E120D63CD287A478E887B3275541994</s:String></wpf:ResourceDictionary>
